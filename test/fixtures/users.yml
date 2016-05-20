@@ -4,3 +4,10 @@ matt:
   email: "mwarren@harding.edu"
   profile_name: "mattwarren"
   encrypted_password: "aljkaASF23klsd"
+
+jim:
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: "jim@teamtreehouse.com"
+  profile_name: "jimhoskins"
+  encrypted_password: "aljkaASF23klsd"
